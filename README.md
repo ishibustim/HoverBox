@@ -18,11 +18,15 @@ If using the second option, you may add the class `HBTemplate` to the template
 
 Examples:
 ```html
-<div class="HBHasHoverBox" HBTitle="Sample HoverBox" HBBody="This is a sample HoverBox.">Hover here to see a sample HoverBox</div>
+<div class="HBHasHoverBox" HBTitle="Sample HoverBox" HBBody="This is a sample HoverBox.">
+    Hover here to see a sample HoverBox
+</div>
 ```
 
 ```html
-<div class="HBHasHoverBox" HBTitle="Sample Template HoverBox" HBBodyElem="#Template">Hover here to see a sample HoverBox using a template element</div>
+<div class="HBHasHoverBox" HBTitle="Sample Template HoverBox" HBBodyElem="#Template">
+    Hover here to see a sample HoverBox using a template element
+</div>
 
 <div id="Template" class="HBTemplate">
     HoverBox bodies support HTML tags, such as <strong>bold</strong> and <em>italics</em>.
@@ -31,3 +35,6 @@ Examples:
 
 # Requirements
 - JQuery
+
+# License
+See LICENSE for details.
