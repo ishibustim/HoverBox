@@ -8,11 +8,11 @@ Include the following lines in your `<head>`:
 <script type="text/javascript" src="HoverBox.js" defer></script>
 ```
 
-To indicate that an element can display a HoverBox, add the class `HBHasHoverBox` to the element.
-The title for the HoverBox can be set by setting the value of the `HBTitle` attribute.
-There are a couple options for setting the content of the HoverBox.
-1) Set the value of the `HBBody` attribute
-2) Set the value of the `HBBodyElem` attribute to the ID of a template element (including the `#`)
+To indicate that an element can display a HoverBox, add the class `HBHasHoverBox` to the element.  
+The title for the HoverBox can be set by setting the value of the `HBTitle` attribute.  
+There are a couple options for setting the content of the HoverBox.  
+1. Set the value of the `HBBody` attribute  
+2. Set the value of the `HBBodyElem` attribute to the ID of a template element (including the `#`)  
 
 If using the second option, you may add the class `HBTemplate` to the template
 
