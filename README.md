@@ -35,3 +35,6 @@ Examples:
 
 # Requirements
 - JQuery
+
+# License
+See LICENSE for details.
